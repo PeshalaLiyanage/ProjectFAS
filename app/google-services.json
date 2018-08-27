@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "672631543181",
+    "firebase_url": "https://project-fas.firebaseio.com",
+    "project_id": "project-fas",
+    "storage_bucket": "project-fas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672631543181:android:9dda9f298c10106e",
+        "android_client_info": {
+          "package_name": "com.example.peshalar.fas2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672631543181-dtmatvgellktg5u6s2l05102n6o08mn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peshalar.fas2",
+            "certificate_hash": "bbcddf1103c12742e4395fe7946c188a02235019"
+          }
+        },
+        {
+          "client_id": "672631543181-q8r1li53331cp8tjdk880t7575gqfc6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoxKMKSRz-yKZWSj5FMMIV59YuvwlPfM8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672631543181-q8r1li53331cp8tjdk880t7575gqfc6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672631543181:android:18a2e8fe08c661e5",
+        "android_client_info": {
+          "package_name": "com.example.peshalar.fas3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672631543181-79f7d5sr1rjfrl8rtqf5m9f8k86r7f51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peshalar.fas3",
+            "certificate_hash": "bbcddf1103c12742e4395fe7946c188a02235019"
+          }
+        },
+        {
+          "client_id": "672631543181-q8r1li53331cp8tjdk880t7575gqfc6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoxKMKSRz-yKZWSj5FMMIV59YuvwlPfM8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672631543181-q8r1li53331cp8tjdk880t7575gqfc6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672631543181:android:c4a0d73512a44898",
+        "android_client_info": {
+          "package_name": "com.example.peshalar.fas4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672631543181-586jbv0q505fo4foevbq667s6pvrsjnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peshalar.fas4",
+            "certificate_hash": "bbcddf1103c12742e4395fe7946c188a02235019"
+          }
+        },
+        {
+          "client_id": "672631543181-q8r1li53331cp8tjdk880t7575gqfc6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoxKMKSRz-yKZWSj5FMMIV59YuvwlPfM8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672631543181-q8r1li53331cp8tjdk880t7575gqfc6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672631543181:android:ef695a3938a788e2",
+        "android_client_info": {
+          "package_name": "com.example.peshalar.projectfas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672631543181-q8r1li53331cp8tjdk880t7575gqfc6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoxKMKSRz-yKZWSj5FMMIV59YuvwlPfM8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
